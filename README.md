@@ -7,4 +7,4 @@ Caldag, H. O., Acemoglu, A. & Yesilyurt, S. (2017). Swimming characteristics of 
 - image_corr.m is the image correction algorithm to recover actual swimmer position from the refracted coordinates.
 - image_processing.m is the image processing code handling experiment videos.
 
-Some experiment videos can be accessed from the link: https://microswimmer.sabanciuniv.edu/wp-content/uploads/2017/01/Experiments/Experiment%20Videos.zip
+You can access some experiment videos from the link: https://microswimmer.sabanciuniv.edu/wp-content/uploads/2017/01/Experiments/Experiment%20Videos.zip
