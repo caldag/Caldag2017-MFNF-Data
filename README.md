@@ -1,4 +1,4 @@
-This folder contains the data and the image processing codes related to the publication:
+This repository contains the data and the image processing codes related to the publication:
 
 Caldag, H. O., Acemoglu, A. & Yesilyurt, S. (2017). Swimming characteristics of artificial helical swimmers in circular channels. Microfluidics and Nanofluidics, 21(8). http://doi.org/10.1007/s10404-017-1973-9
 
